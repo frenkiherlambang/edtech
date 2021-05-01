@@ -1,3 +1,5 @@
+[Beranda](https://frenkiherlambang.github.io/teknodukasi)
+
  1. Ketika saya pertama kali melihat pelajaran ini, saya mendapat kesan bahwa itu akan mudah bagi saya.
  2. Ada yang menarik di awal pelajaran ini yaitu
 mendapat perhatian saya.
