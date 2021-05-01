@@ -1,4 +1,5 @@
-# Perhatian _(Attention)_
+[Beranda](https://frenkiherlambang.github.io/teknodukasi)
+ # Perhatian _(Attention)_
 ## 1. Dorongan Awal _(Perceptual Arousal)_
 Ini adalah jenis keingintahuan yang mengacu pada reaksi refleksif terhadap rangsangan. Hampir semua perubahan yang tiba-tiba atau tidak terduga dalam lingkungan akan mengaktifkan tingkat keingintahuan seseorang
 ## 2. Dorongan Rasa Ingin Tahu _(Inquiry Arousal)_
