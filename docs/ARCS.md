@@ -22,7 +22,7 @@ pelajar harus diberi kendali pribadi sebanyak mungkin atas pengalaman belajar ya
 # Kepuasan (Satisfaction)
 ## Konsekuensi Alami _(Natural consequences)_
 Konsekuensi alami adalah konsekuensi yang didapatkan ketika siswa menyelesaikan pembelajaran. jika mereka merasa apa yang dipelajari sangat berguna bagi dirinya atau pun orang lain, maka rasa puasnya akan meningkat. Penting juga untuk menggunakan penghargaan ekstrinsik secara tepat untuk memperkuat pengembangan keterampilan baru dan agar siswa merasa nyaman dalam memenuhi persyaratan mereka.
-## Konsekuensi Positif_(Positive consequences)_
+## Konsekuensi Positif _(Positive consequences)_
 Insentif dalam bentuk penghargaan, bonus uang, piala, dan hak istimewa merupakan hasil yang memuaskan bagi orang yang menerimanya, asalkan digunakan secara tepat sesuai dengan prinsip yang ditetapkan dalam menggunakan bala bantuan untuk merangsang, membentuk, dan mempertahankan perilaku.
 ## Keadilan _(Equity)_
 memastikan bahwa hasil kursus konsisten dengan presentasi dan diskusi awal mengenai tujuan dan harapan dan untuk mempertahankan standar dan konsekuensi yang konsisten untuk penyelesaian tugas
